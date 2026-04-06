@@ -22,8 +22,8 @@
 - Build impactful and user-friendly applications  
 
 ## 📫 Connect with Me
-- GitHub: [Your GitHub Profile Link]
-- LinkedIn: [Your LinkedIn Profile Link]
+- GitHub:avijitcdev/avijitcdev-
+- LinkedIn: https://www.linkedin.com/in/avijit-chatterjee-38ab00342
 
 ---
 
